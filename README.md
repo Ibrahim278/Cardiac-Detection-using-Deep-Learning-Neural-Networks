@@ -8,4 +8,4 @@ The development of a deep learning model for cardiac detection typically involve
 
 #### Introduction
 
-This project involved creating a Machine Learning model using Deep Learning Neural Networks with PyTorch which scans DICOM image sof the heart and correctly predicts Cardiac Cases. The model could then be integrated into a mobile or web interface using a backend infrastructure.
+This project involved creating a Machine Learning model using Deep Learning Neural Networks with PyTorch which scans DICOM images of the heart and correctly predicts Cardiac Cases. The model could then be integrated into a mobile or web interface using a backend infrastructure.
